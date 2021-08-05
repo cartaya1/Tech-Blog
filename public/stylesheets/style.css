@@ -1,17 +1,17 @@
 :root {
 --primary: rgb(200, 200, 200);
 --secondary: rgb(120, 160, 170);
---tertiary: rgb(71, 142, 142);
---light-dark: rgb(160, 200, 180);
---dark: rgb(30, 100, 100);
+--tertiary: rgb(15, 74, 74);
+--light-dark: rgb(116, 163, 139);
+--dark: rgb(15, 45, 45);
 --border-radius: .3rem;
-                  }
+}
                   
-                  * {
-                      box-sizing: border-box;
-                  }
+* {
+box-sizing: border-box;
+}
                   
-                  body {
+body {
                       background-color: var(--primary);
                       margin: 0;
                       padding: 0;

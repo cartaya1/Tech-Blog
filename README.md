@@ -24,18 +24,24 @@
 
 🔍 A mysql database and CMS-style Blog built using Model View Controller (MVC) paradigm. Built using MySQL2, Express, Sequelize, Bulma, Handlebars and dotenv.
 
-*[Deployed Application](https://Cartaya1-Tech-Blog.herokuapp.com/)**
+🔍 Una base de datos mysql y un blog estilo CMS construido usando el paradigma Model View Controller (MVC). Construido con MySQL2, Express, Sequelize, Bulma, Handlebars y dotenv
+
+*[Deployed Application](https://cartaya1-tech-blog.herokuapp.com/)**
   
 💻 Below is a screenshot of the application:
   
-![technically speaking: a tech blog](/assets/demo.gif)
+![Tech Blogs: Where can share yours Ideas](./ScreenShot.png)
 
 # User Story
 
 ```
 AS A developer who writes about tech
 I WANT a CMS-style blog site
-SO THAT I can publish articles, blog posts, and my thoughts and opinions
+SO THAT I can publish articles, blogs,thoughts, and opinions
+
+COMO desarrollador que escribe sobre tecnología
+QUIERO un sitio de blogs estilo CMS
+PARA QUE pueda publicar artículos, blogs, pensamientos y opiniones
 ```
 
 # Table of Contents
